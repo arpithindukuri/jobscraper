@@ -1,0 +1,72 @@
+HTML
+HTML5
+CSS
+.NET
+.NET Core
+.NET Framework
+DOTNET
+DOTNET CORE
+DOTNET Framework
+sharp
+amazon
+aws
+lamda
+functions
+sql
+alteryx
+apache
+rapidMiner
+MySQL
+SQLite3
+mongogb
+mongodb
+mongo
+JSON
+SAS
+Artificial intelligence
+Machine learning
+Neural networks
+Natural language processing
+Deep learning
+Algorithm development
+Spark
+Blockchain
+Network
+WAN/LAN
+routers
+Security
+system
+Cloud
+javascript
+typescript
+python
+c
+c++
+c#
+java
+perl
+php
+lamp
+mern
+react
+vue
+angular
+nosql
+sql
+mysql
+postgresql
+firebase
+azure
+microsoft
+web
+service
+microservice
+REST
+RESTful
+API
+APIs
+Jest
+Testing
+Tailwind
+Webpack
+gcp
